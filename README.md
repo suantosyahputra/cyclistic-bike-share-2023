@@ -4,8 +4,25 @@
 
 ## 🛠️ Tools Used
 
+**PostgreSQL 18** - data storage, cleaning and analysis with SQL
+**Python (pandas, seaborn, matplotlib)** - analysis and visualization
+**Tableau public** - map visualization
+**Jupyter notebook** - platform to run Python
+
 ## 🧹 Data Cleaning & Preparation
 
+Data cleaning and preparation were mainly done in PostgreSQL 18. After the analysis was completed, the outputs were exported in the form of CSV files.
+
+The step of data cleaning and preparation from the beginning to the end:
+1. Checked 12-month data of Cyclistic bike share 2023 (January-December) CSV files. The time format "started_at" and "ended_at" were changed to (yyyy-mm-dd hh:mm:ss). All of the `start_lat`, `start_lng`, `end_lat`, end_lng` were ensured in the number format. Erased ' in some of the data. 
+2. Imported the data into PostgreSQL 18 and created a single table. 
+3. Created `ride_length` from the subtraction of `ended_at` and `started_at` in minutes.
+4. Added `day_of_week` feature.
+5. Cleaned the data which consists of:
+   - Removed trips with zero and negative duration.
+   - Erased impossibly long trips.
+6. Added new features: `month` and `season` (spring, summer, fall or winter) based on the ride date.
+7. Continues to data analysis with SQL. 
 
 ## 📊 Analysis Overview
 
