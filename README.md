@@ -111,7 +111,7 @@ The top start stations for members only were represented by the graph below.
 
 The top start stations for casual riders were represented by the graph below. 
 
-![Top stations among casual riders](6_3_top_stations_casual_riders.png)
+![Top stations among casual riders](images/6_3_top_stations_casual_riders.png)
 
 ### 7. Geographic Insights
 
