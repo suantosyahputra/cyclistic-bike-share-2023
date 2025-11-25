@@ -97,23 +97,28 @@ The evolution of the number of trips with respect to month can be observed thank
 
 **6.1 Most popular stations overall**
 
+The 10 most popular stations for all riders were ranked after eliminating `NaN` value of start stations from the dataframe. 
+
 ![Station popularity](images/6.1_station_popularity.png)
 
-
 **6.2 Top stations among members**
+
+The top start stations for members only were represented by the graph below. 
 
 ![Top stations among members](images/6_2_top_stations_members.png)
 
 **6.3 Top stations among casual riders**
 
+The top start stations for casual riders were represented by the graph below. 
+
 ![Top stations among casual riders](6_3_top_stations_casual_riders.png)
 
 ### 7. Geographic Insights
 
-With Tableau, the density-style map and the top 3 most popular stations in the map were created. `start lat`, `start lng`, `end lat` and end lng` were used for constructing the density-style map in Tableau. 
+With Tableau, the density-style map and the top 3 most popular stations in the map were created. `start lat`, `start lng`, `end lat` and `end lng` were used for constructing the density-style map in Tableau. In the end, the density-style map for the comparison of start stations of members and casual riders was also shown in one of the maps below. 
 
 ![All](images//All.png)
 
 ![Top 3 stations](images/Top_3_with_label.png)
 
-![Station member casual](station_member_casual.png)
+![Station member casual](images/station_member_casual.png)
