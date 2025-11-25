@@ -55,7 +55,7 @@ The average ride length in minutes was compared between members and casual rider
 
 **4.1 Seasonal trip counts**
 
-- The evolution of the trips along the season in 2023 of members and casual riders. 
+The evolution of the trips along the season in 2023 of members and casual riders. 
 
 **4.2 Average ride length by season**
 
