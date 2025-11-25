@@ -12,6 +12,7 @@
 ### 2. Member vs Casual Behaviour
 
 **2.1 Average ride length**
+The average ride length in minutes was compared between members and casual riders to observe the average duration for each category. This feature will allow us to gather information on which riders use the cyclistic longer. 
 
 **2.2 Ride length distribution**
 
