@@ -82,21 +82,38 @@ The evolution of the trips along the season in 2023 of members and casual riders
 
 **4.2 Average ride length by season**
 
+The change of `ride_length` along the seasonal change in 2023 can be observed by plotting the `season` and `average_ride_length` for members and casual riders. 
+
 ![Average ride length by season](images/4.2_average_ride_length_by_season.png)
 
 
 ### 5. Monthly Trends
 
+The evolution of the number of trips with respect to month can be observed thanks to this analysis. From this analysis, we can see the peak month and off-season periods of Cyclistic usage in 2023. 
+
+![Monthly trends](images/5_monthly_trends.png)
+
 ### 6. Station Popularity
 
 **6.1 Most popular stations overall**
 
+![Station popularity](images/6.1_station_popularity.png)
+
 
 **6.2 Top stations among members**
 
+![Top stations among members](images/6_2_top_stations_members.png)
 
 **6.3 Top stations among casual riders**
+
+![Top stations among casual riders](6_3_top_stations_casual_riders.png)
 
 ### 7. Geographic Insights
 
 With Tableau, the density-style map and the top 3 most popular stations in the map were created. `start lat`, `start lng`, `end lat` and end lng` were used for constructing the density-style map in Tableau. 
+
+![All](images//All.png)
+
+![Top 3 stations](images/Top_3_with_label.png)
+
+![Station member casual](station_member_casual.png)
