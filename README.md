@@ -4,10 +4,10 @@
 
 ## 🛠️ Tools Used
 
-**PostgreSQL 18** - data storage, cleaning and analysis with SQL
-**Python (pandas, seaborn, matplotlib)** - analysis and visualization
-**Tableau public** - map visualization
-**Jupyter notebook** - platform to run Python
+- **PostgreSQL 18** - data storage, cleaning and analysis with SQL.
+- **Python (pandas, seaborn, matplotlib)** - analysis and visualization.
+- **Tableau public** - map visualization.
+- **Jupyter notebook** - platform to run Python.
 
 ## 🧹 Data Cleaning & Preparation
 
