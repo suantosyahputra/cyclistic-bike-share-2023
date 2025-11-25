@@ -1,5 +1,10 @@
+## 🔍 Business Question
+
+How do annual members and casual riders use Cyclistic bikes differently?
 
 ## 📂 Data
+
+The data were taken from the cyclistic bike share from January to December 2023. The total of the rows is 5849135 rows. There are 13 columns obtained from the raw data: `ride_id`, `rideable_type`, `started_at`, `ended_at`, `start_station_name`, `start_station_id`, `end_station_name`, `end_station_id`, `start_lat`, `start_lng`, `end_lat`, `end_lng` and `member_casual`.  
 
 
 ## 🛠️ Tools Used
@@ -67,3 +72,5 @@ The average ride length in minutes was compared between members and casual rider
 **6.3 Top stations among casual riders**
 
 ### 7. Geographic Insights
+
+With Tableau, the density-style map and the top 3 most popular stations in the map were created. `start lat`, `start lng`, `end lat` and end lng` were used for constructing the density-style map in Tableau. 
