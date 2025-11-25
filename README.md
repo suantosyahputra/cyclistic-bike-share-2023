@@ -50,9 +50,13 @@ The trips were grouped into several categories:
 
 After the categories of the trip were made, the distribution of the ride length between members and casual riders was compared. 
 
+![Ride length distribution](images/2.2_ride_length_distribution.png)
+
 **2.3 Variability (standard deviation)**
 
 The **standard deviation** of `ride_length` was calculated to see the variability of the data of members and casual riders. 
+
+![Variability](images/2.3_variability.png)
 
 ### 3. Time-Based Behaviour
 
@@ -60,21 +64,25 @@ The **standard deviation** of `ride_length` was calculated to see the variabilit
 
 The hour of the rides was observed to see the pattern of commuting peaks and leisure of members and casual riders. 
 
+![Hour of day](images/3.1_hour_of_day.png)
+
 **3.2 Day of week**
 
 The visualisation of the day of week with respect to the number of trips for members and casual riders. It aims to visualise the habits of members and casual riders in using Cyclistic in each day. 
 
+![Day of week](images/3_2_day_of_week.png)
 
 ### 4. Seasonal Trends
-
 
 **4.1 Seasonal trip counts**
 
 The evolution of the trips along the season in 2023 of members and casual riders. 
 
+![Seasonal trip counts](images/4.1_seasonal_trip_counts.png)
+
 **4.2 Average ride length by season**
 
-
+![Average ride length by season](images/4.2_average_ride_length_by_season.png)
 
 
 ### 5. Monthly Trends
