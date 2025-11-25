@@ -37,17 +37,32 @@ The step of data cleaning and preparation from the beginning to the end:
 
 The average ride length in minutes was compared between members and casual riders to observe the average duration for each category. This feature will allow us to gather information on which riders use the cyclistic longer. 
 
+![Average ride length](images/2.1_avg_ride_length.png)
+
 **2.2 Ride length distribution**
 
+The trips were grouped into several categories:
+- < 5 minutes: very short
+- < 15 minutes: short
+- < 30 minutes: medium
+- < 60 minutes: long
+- > 60 minutes: very long
+
+After the categories of the trip were made, the distribution of the ride length between members and casual riders was compared. 
 
 **2.3 Variability (standard deviation)**
 
+The **standard deviation** of `ride_length` was calculated to see the variability of the data of members and casual riders. 
 
 ### 3. Time-Based Behaviour
 
 **3.1 Hour of day**
 
+The hour of the rides was observed to see the pattern of commuting peaks and leisure of members and casual riders. 
+
 **3.2 Day of week**
+
+The visualisation of the day of week with respect to the number of trips for members and casual riders. It aims to visualise the habits of members and casual riders in using Cyclistic in each day. 
 
 
 ### 4. Seasonal Trends
@@ -58,6 +73,7 @@ The average ride length in minutes was compared between members and casual rider
 The evolution of the trips along the season in 2023 of members and casual riders. 
 
 **4.2 Average ride length by season**
+
 
 
 
